@@ -65,14 +65,14 @@
                 <groupId>org.jetbrains.dokka</groupId>
                 <artifactId>dokka-maven-plugin</artifactId>
                 <version>${dokka.version}</version>
-                <executions>
+<!--                <executions>
                     <execution>
                         <phase>package</phase>
                         <goals>
                             <goal>javadocJar</goal>
                         </goals>
                     </execution>
-                </executions>
+                </executions>-->
                 <!--
                                 <configuration>
                                     <dokkaPlugins>
